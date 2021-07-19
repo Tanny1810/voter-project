@@ -1,0 +1,2 @@
+Add an excel file path in the code below in the voter proj.c file to store the information
+fp=fopen("add_file_path","a");
